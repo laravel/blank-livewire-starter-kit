@@ -6,7 +6,7 @@ Our Laravel + [Livewire](https://livewire.laravel.com) starter kit provides a ro
 
 Livewire is a powerful way of building dynamic, reactive, frontend UIs using just PHP. It's a great fit for teams that primarily use Blade templates and are looking for a simpler alternative to JavaScript-driven SPA frameworks like React and Vue.
 
-This Livewire starter kit utilizes Livewire 3, Laravel Volt, and Tailwind, but **does not include any authentication scaffolding**.
+This Livewire starter kit utilizes Livewire 4, and Tailwind, but **does not include any authentication scaffolding**.
 
 ## Official Documentation
 
