@@ -115,4 +115,15 @@ return [
         'name' => env('MAIL_FROM_NAME', 'Example'),
     ],
 
+    /*
+    |--------------------------------------------------------------------------
+    | Admin Email
+    |--------------------------------------------------------------------------
+    |
+    | Email address used for administrative notifications (new submissions,
+    | moderation requests, etc.). This can be set via the ADMIN_EMAIL env var.
+    |
+    */
+    'admin_address' => env('ADMIN_EMAIL', 'admin@example.com'),
+
 ];
