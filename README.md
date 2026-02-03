@@ -1,5 +1,9 @@
 # Laravel + Livewire Starter Kit
 
+[![CI](https://github.com/{owner}/{repo}/actions/workflows/phpunit.yml/badge.svg)](https://github.com/{owner}/{repo}/actions/workflows/phpunit.yml) [![Coverage](https://codecov.io/gh/{owner}/{repo}/branch/main/graph/badge.svg)](https://codecov.io/gh/{owner}/{repo})
+
+> Replace `{owner}/{repo}` in the badges above with your GitHub repository path (for example `your-username/your-repo`) after you push the workflow and run the CI once.
+
 ## Introduction
 
 Our Laravel + [Livewire](https://livewire.laravel.com) starter kit provides a robust, modern starting point for building Laravel applications with a Livewire frontend.
